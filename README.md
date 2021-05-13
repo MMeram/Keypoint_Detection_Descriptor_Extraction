@@ -1,6 +1,6 @@
 # SFND 2D Feature Tracking
 
-<img src="images/keypoints.png" width="820" height="248" />
+<img src="detector_descriptor_statistics.png" width="820" height="248" />
 
 The project consists of four parts:
 
