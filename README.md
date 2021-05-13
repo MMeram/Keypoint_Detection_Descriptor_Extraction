@@ -18,7 +18,7 @@ The project consists of four parts:
    3. Implemented Knn-matching by selecting 2 as the best match candidates. The ratio is taken as 0.8
 
 4. Performance Evaluation: 
-   1. Results are in the spreadsheet
+   1. Results are in the spreadsheet. As Harris, Shi-Tomasi and FAST almost equally distributed keypoint sizes, it varies in others especially in ORB and BRISK considerably
    2. Results are in the spreadsheet
    3. Results are in the spreadsheet
 
